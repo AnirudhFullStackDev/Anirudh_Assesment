@@ -1,0 +1,19 @@
+{
+  "name": "anirudh_assesment",
+  "version": "1.0.0",
+  "description": "Creating a node project.",
+  "main": "fsModuleAsyncAwait.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnirudhFullStackDev/Anirudh_Assesment.git"
+  },
+  "author": "Anirudh Nayak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnirudhFullStackDev/Anirudh_Assesment/issues"
+  },
+  "homepage": "https://github.com/AnirudhFullStackDev/Anirudh_Assesment#readme"
+}
